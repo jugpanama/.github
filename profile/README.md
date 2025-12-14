@@ -1,4 +1,4 @@
-## 👋 Welcome to the Java User Group Panama
+## Welcome to the Java User Group Panama
 
 The **Java User Group Panama** brings together Java developers, enthusiasts, and professionals from across Panama to share knowledge, explore new technologies, and promote the growth of the Java ecosystem.
 
@@ -31,10 +31,10 @@ We want to hear from you. The best way to start is:
 
 JUG Panamá is led by passionate volunteers dedicated to building a vibrant developer community.
 
-| [**Jesus Aguirre**](https://github.com/aguirre-jes) | [**Fabrizio Sgura**](https://github.com/xiloss) | 
-| :---:  | :---: |
-| <img src="https://github.com/aguirre-jes.png" width="80" style="border-radius:50%"> | <img src="https://github.com/xiloss.png" width="80" style="border-radius:50%"> |
-| Lead Organizer | Co-Organizer | Event Coordinator |   
+| [**Jesus Aguirre**](https://github.com/aguirre-jes) | [**Fabrizio Sgura**](https://github.com/xiloss) | [**Gerardo Nunez**](https://github.com/gnpitty) |
+| :---:  | :---: | :---: |
+| <img src="https://github.com/aguirre-jes.png" width="80" style="border-radius:50%"> | <img src="https://github.com/xiloss.png" width="80" style="border-radius:50%"> | <img src="https://github.com/gnpitty.png" width="80" style="border-radius:50%"> |
+| Lead Organizer | Co-Organizer | Co-Organizer |   
 
 ### 🌐 Connect with us
 
