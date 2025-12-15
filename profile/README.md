@@ -1,42 +1,46 @@
 ## Welcome to the Java User Group Panama
 
-The **Java User Group Panama** brings together Java developers, enthusiasts, and professionals from across Panama to share knowledge, explore new technologies, and promote the growth of the Java ecosystem.
+The **Java User Group Panama (JUG Panama)** is the meeting point for the **[Java Community](https://dev.java/community/)** in our country to **connect, communicate, and collaborate** with developer peers.
 
-### 🚀 Our Mission
-Our mission is to strengthen the Java community in Panama, inspire innovation, and connect developers with opportunities to learn, grow, and contribute to the broader open source and Java ecosystem.
+As part of a **[global network of volunteer organizations](https://dev.java/community/jugs/)** found on almost every continent, we strive to distribute Java-related knowledge, share resources, and build a more inclusive community for everyone interested in the JVM ecosystem.
+
+### Our Mission
+Our mission is to strengthen the developer landscape in Panama by providing a platform to **expand Java Technology expertise** and inspire innovation.
 
 We achieve this by hosting talks with industry leaders and local experts, organizing community meetups, hands-on workshops, and panel discussions—fostering collaboration both online and in person.
 
 ---
 
-### 📂 What you will find in this organization
+### What you will find in this organization
 
 We use GitHub as our community hub. Here is how you can participate:
 
-* 📢 **Discussions (The Hub):** The heart of our community. Join the conversation on the [Discussions tab](https://github.com/orgs/jugpanama/discussions) to ask questions, share ideas, or rank topics for future meetups.
+* 📢 **Discussions (The Hub):** The heart of our community. Join the conversation on the [Discussions tab](https://github.com/orgs/jugpanama/discussions) to ask questions, share solutions, or rank topics for future meetups.
 * 📅 **Events & Workshops:** Access resources, code samples, and slides from our talks covering **Java, Software Engineering, and Technology**.
-* 🤝 **Networking:** Connect with other passionate developers from Panama and beyond.
+* 🤝 **Networking:** A space to connect with passionate developers, increase your professional network, and find mentorship opportunities.
 
 ---
 
-### ⚡ Get Involved!
+### Get Involved!
 
-We want to hear from you. The best way to start is:
+We are a volunteer-driven organization, and we want to hear from you. The best way to start is:
 
 1.  Go to the **[Discussions Tab](https://github.com/orgs/jugpanama/discussions)**.
 2.  Introduce yourself to the community.
 3.  Vote for the next meetup topic!
 
-### 👥 Meet the Team
+### Meet the Team
 
 JUG Panamá is led by passionate volunteers dedicated to building a vibrant developer community.
 
 | [**Jesus Aguirre**](https://github.com/aguirre-jes) | [**Fabrizio Sgura**](https://github.com/xiloss) | [**Gerardo Nunez**](https://github.com/gnpitty) |
-| :---:  | :---: | :---: |
+| :---: | :---: | :---: |
 | <img src="https://github.com/aguirre-jes.png" width="80" style="border-radius:50%"> | <img src="https://github.com/xiloss.png" width="80" style="border-radius:50%"> | <img src="https://github.com/gnpitty.png" width="80" style="border-radius:50%"> |
-| Lead Organizer | Co-Organizer | Co-Organizer |   
+| Lead Organizer | Co-Organizer | Co-Organizer |
 
-### 🌐 Connect with us
+---
+
+### Connect with us
 
 <div align="left">
   <a href="https://linktr.ee/jugpanama">
