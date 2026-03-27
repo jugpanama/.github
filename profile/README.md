@@ -61,7 +61,7 @@ technical community in the country.
 | [**Jesús Aguirre**](https://github.com/aguirre-jes) |
 | :---: |
 | <img src="https://github.com/aguirre-jes.png" width="80" style="border-radius:50%"> |
-| Founder & Lead Organizer |
+| Founder & JUG Leader |
 
 ---
 
